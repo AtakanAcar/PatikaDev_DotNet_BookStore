@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xbw66jXyMyDZp3ofCLBQHIrOPEYC63HF6+wI9Aj5MCGQvvSmVCcfNouGP4WdKv0YCz3ziXJrpIvmRsH8OAa+LQ==",
+  "dgSpecHash": "2YBVcxCQEhRFZP+VBYMXceotp4nZf3N6EY6pcEYXFLS6M+oqUF7fDZXiyfHBJ3zu/7hSd5HpIMjA0s0jx88yKg==",
   "success": true,
-  "projectFilePath": "/home/atakan/Masaüstü/Tutorials/PatikaDotNEtBookStore/Webapi/Webapi.csproj",
+  "projectFilePath": "/home/atakan/Masaüstü/Tutorials/Patika Dotnet Book Store/Webapi/Webapi.csproj",
   "expectedPackageFiles": [
     "/home/atakan/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "/home/atakan/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",

@@ -213,11 +213,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/atakan/Masaüstü/Tutorials/PatikaDotNEtBookStore/Webapi/Webapi.csproj",
+      "projectUniqueName": "/home/atakan/Masaüstü/Tutorials/Patika Dotnet Book Store/Webapi/Webapi.csproj",
       "projectName": "Webapi",
-      "projectPath": "/home/atakan/Masaüstü/Tutorials/PatikaDotNEtBookStore/Webapi/Webapi.csproj",
+      "projectPath": "/home/atakan/Masaüstü/Tutorials/Patika Dotnet Book Store/Webapi/Webapi.csproj",
       "packagesPath": "/home/atakan/.nuget/packages/",
-      "outputPath": "/home/atakan/Masaüstü/Tutorials/PatikaDotNEtBookStore/Webapi/obj/",
+      "outputPath": "/home/atakan/Masaüstü/Tutorials/Patika Dotnet Book Store/Webapi/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/atakan/.nuget/NuGet/NuGet.Config"
@@ -267,7 +267,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/dotnet6-6.0.108/sdk/6.0.108/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/dotnet6-6.0.109/sdk/6.0.109/RuntimeIdentifierGraph.json"
       }
     }
   }

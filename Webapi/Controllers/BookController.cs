@@ -73,5 +73,14 @@ namespace Webapi.Controllers
             return Ok();
         }
 
+        [HttpDelete("{id}")]
+        public IActionResult DeleteBook(int id){
+            var book=BookList.SingleOrDefault(b=>b.id==id);
+            if (book is null)
+                return BadRequest();
+
+            BookList.Remove(book);
+            return Ok();
+        }
     }
 }

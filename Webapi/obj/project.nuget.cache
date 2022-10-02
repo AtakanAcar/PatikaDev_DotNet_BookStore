@@ -1,15 +1,28 @@
 {
   "version": 2,
-  "dgSpecHash": "2YBVcxCQEhRFZP+VBYMXceotp4nZf3N6EY6pcEYXFLS6M+oqUF7fDZXiyfHBJ3zu/7hSd5HpIMjA0s0jx88yKg==",
+  "dgSpecHash": "tx/3P1xaons0eDa9aN/+Q+xQS6zwsa39QFyQ2HvBgzEoWmQwyuZzwBvqNYFCNmoQs50VDGN5KJhki1w2faRSTw==",
   "success": true,
   "projectFilePath": "/home/atakan/Masaüstü/Tutorials/Patika Dotnet Book Store/Webapi/Webapi.csproj",
   "expectedPackageFiles": [
+    "/home/atakan/.nuget/packages/microsoft.entityframeworkcore/7.0.0-rc.1.22426.7/microsoft.entityframeworkcore.7.0.0-rc.1.22426.7.nupkg.sha512",
+    "/home/atakan/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.0-rc.1.22426.7/microsoft.entityframeworkcore.abstractions.7.0.0-rc.1.22426.7.nupkg.sha512",
+    "/home/atakan/.nuget/packages/microsoft.entityframeworkcore.analyzers/7.0.0-rc.1.22426.7/microsoft.entityframeworkcore.analyzers.7.0.0-rc.1.22426.7.nupkg.sha512",
+    "/home/atakan/.nuget/packages/microsoft.entityframeworkcore.inmemory/7.0.0-rc.1.22426.7/microsoft.entityframeworkcore.inmemory.7.0.0-rc.1.22426.7.nupkg.sha512",
     "/home/atakan/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/atakan/.nuget/packages/microsoft.extensions.caching.abstractions/7.0.0-rc.1.22426.10/microsoft.extensions.caching.abstractions.7.0.0-rc.1.22426.10.nupkg.sha512",
+    "/home/atakan/.nuget/packages/microsoft.extensions.caching.memory/7.0.0-rc.1.22426.10/microsoft.extensions.caching.memory.7.0.0-rc.1.22426.10.nupkg.sha512",
+    "/home/atakan/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0-rc.1.22426.10/microsoft.extensions.dependencyinjection.7.0.0-rc.1.22426.10.nupkg.sha512",
+    "/home/atakan/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0-rc.1.22426.10/microsoft.extensions.dependencyinjection.abstractions.7.0.0-rc.1.22426.10.nupkg.sha512",
+    "/home/atakan/.nuget/packages/microsoft.extensions.logging/7.0.0-rc.1.22426.10/microsoft.extensions.logging.7.0.0-rc.1.22426.10.nupkg.sha512",
+    "/home/atakan/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0-rc.1.22426.10/microsoft.extensions.logging.abstractions.7.0.0-rc.1.22426.10.nupkg.sha512",
+    "/home/atakan/.nuget/packages/microsoft.extensions.options/7.0.0-rc.1.22426.10/microsoft.extensions.options.7.0.0-rc.1.22426.10.nupkg.sha512",
+    "/home/atakan/.nuget/packages/microsoft.extensions.primitives/7.0.0-rc.1.22426.10/microsoft.extensions.primitives.7.0.0-rc.1.22426.10.nupkg.sha512",
     "/home/atakan/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
     "/home/atakan/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "/home/atakan/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "/home/atakan/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
-    "/home/atakan/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+    "/home/atakan/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "/home/atakan/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }

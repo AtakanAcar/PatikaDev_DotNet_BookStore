@@ -1,9 +1,10 @@
 using System;
-
+using System.ComponentModel.DataAnnotations.Schema;
 namespace Webapi
 {
     public class Book
     {
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int id { get; set; }
         public string Title { get; set; }
         public int GenreId { get; set; }

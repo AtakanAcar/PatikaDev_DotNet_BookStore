@@ -17,7 +17,6 @@ namespace Webapi.DBOperations
                 context.Books.AddRange(
                     new Book
                     {
-                        id = 1,
                         GenreId = 1,
                         PageCount = 100,
                         PublishDate = new DateTime(2001, 6, 12),
@@ -25,7 +24,7 @@ namespace Webapi.DBOperations
                     },
                     new Book
                     {
-                        id = 2,
+
                         GenreId = 2,
                         PageCount = 250,
                         PublishDate = new DateTime(2010, 5, 23),
@@ -33,7 +32,6 @@ namespace Webapi.DBOperations
                     },
                     new Book
                     {
-                        id = 3,
                         GenreId = 2,
                         PageCount = 150,
                         PublishDate = new DateTime(2005, 1, 13),

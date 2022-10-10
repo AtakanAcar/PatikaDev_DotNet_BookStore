@@ -16,6 +16,9 @@ namespace Webapi.Application.BookOperations.Queries.GetBookById
         public BookViewModel Handle()
         {
             var book=_dbContext.Books.Where(b=>b.id==id).SingleOrDefault();
+            if(book is null)
+                throw new InvalidOperationException("Kitap Bulunamadı");
+                
             BookViewModel vm=new();
             vm.Title=book.Title;
             vm.PageCount=book.PageCount;

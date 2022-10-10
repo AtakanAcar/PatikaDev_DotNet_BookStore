@@ -31,10 +31,17 @@ namespace Webapi.Controllers
 
         [HttpGet("{id}")]
         public IActionResult GetById(int id){
-            GetBookByIdQuery getBookByIdQuery=new(_context);
-            getBookByIdQuery.id=id;
-            var result=getBookByIdQuery.Handle();
-            return Ok(result);
+            try
+            {
+                GetBookByIdQuery getBookByIdQuery=new(_context);
+                getBookByIdQuery.id=id;
+                var result=getBookByIdQuery.Handle();
+                return Ok(result);    
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);   
+            }
         }
 
         //[HttpGet("{id}")]

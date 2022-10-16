@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "nb3CHedkXlFY7BdBXZYIUhzKJaZNqChKBbFyJvoMrpUSNy8NJYcJ9FU22oDfhFgmlVlu1Md1bwYLsYADr3td5g==",
+  "dgSpecHash": "q1nNg2txPTTAtHgmveaFL21VITiZ9+cBOLM9pM/hy6APWqu9OtPqEdduHQFULdJXPYBwPxUletAfPHWj0g+3dw==",
   "success": true,
   "projectFilePath": "/home/atakan/Masaüstü/Tutorials/Patika Dotnet Book Store/Webapi/Webapi.csproj",
   "expectedPackageFiles": [
     "/home/atakan/.nuget/packages/automapper/12.0.0/automapper.12.0.0.nupkg.sha512",
     "/home/atakan/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.0/automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
+    "/home/atakan/.nuget/packages/fluentvalidation/11.2.2/fluentvalidation.11.2.2.nupkg.sha512",
     "/home/atakan/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/home/atakan/.nuget/packages/microsoft.entityframeworkcore/7.0.0-rc.1.22426.7/microsoft.entityframeworkcore.7.0.0-rc.1.22426.7.nupkg.sha512",
     "/home/atakan/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.0-rc.1.22426.7/microsoft.entityframeworkcore.abstractions.7.0.0-rc.1.22426.7.nupkg.sha512",
